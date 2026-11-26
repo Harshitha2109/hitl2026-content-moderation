@@ -28,7 +28,7 @@ Online platforms receive more user comments than moderators can check by hand. W
 
 ## Installation
 ```bash
-git clone https://github.com/<your-user>/hitl2026-content-moderation.git
+git clone https://github.com/Harshitha2109/hitl2026-content-moderation.git
 cd hitl2026-content-moderation
 pip install -r requirements.txt
 ```
